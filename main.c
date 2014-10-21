@@ -10,7 +10,8 @@
 *		develop branch with your branch,
 *
 *		using:
-*		git checkout develop
+*
+*		git checkout develop 
 *		git merge --no-ff YOUR_BRANCH -here corrected an error
 *		git push
 *		
